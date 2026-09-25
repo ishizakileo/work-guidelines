@@ -1,6 +1,6 @@
-# AWS Secret Management Guidelines
+# Work Guidelines
 
-AWS Secrets Manager と Systems Manager Parameter Store を利用する際の、記載・運用ルールをまとめたリポジトリです。
+業務で利用する各分野の記載・運用ルールやナレッジをまとめるリポジトリです。
 
 ## 内容
 
