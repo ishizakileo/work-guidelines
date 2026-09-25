@@ -1,0 +1,26 @@
+# OS-generated files
+.DS_Store
+
+# Local environment and secret files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.p12
+*.pfx
+credentials*
+secrets*
+!SecretsManager記載ルール方針.txt
+
+# Terraform local state and variable values
+.terraform/
+*.tfstate
+*.tfstate.*
+*.tfvars
+*.tfvars.json
+crash.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
